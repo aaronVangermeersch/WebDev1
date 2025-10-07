@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +71,7 @@
       <updated>1759306131815</updated>
       <workItem from="1759306133196" duration="2177000" />
       <workItem from="1759835358248" duration="1890000" />
+      <workItem from="1759837477310" duration="465000" />
     </task>
     <servers />
   </component>
