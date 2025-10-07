@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="" />
+    <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/opdracht8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo2/voorbeeld headings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +48,20 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.opdracht3.html.executor": "Run",
     "JavaScript Debug.opdracht4.html.executor": "Run",
+    "JavaScript Debug.opdracht5.html.executor": "Run",
+    "JavaScript Debug.opdracht6.html.executor": "Run",
+    "JavaScript Debug.opdracht7.html.executor": "Run",
+    "JavaScript Debug.opdracht8.html.executor": "Run",
+    "JavaScript Debug.opdracht9.html.executor": "Run",
+    "JavaScript Debug.voorbeeld headings.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,10 +79,11 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="" />
@@ -71,7 +93,7 @@
       <updated>1759306131815</updated>
       <workItem from="1759306133196" duration="2177000" />
       <workItem from="1759835358248" duration="1890000" />
-      <workItem from="1759837477310" duration="465000" />
+      <workItem from="1759837477310" duration="1230000" />
     </task>
     <servers />
   </component>
