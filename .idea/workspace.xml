@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/semester1/Opdracht TI-games/HerhalingHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/Opdracht TI-games/images/Bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht6/opdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht6/styles/opdracht6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht7/opdracht7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht7/styles/opdracht7.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,41 +41,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.contact.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht6.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht7.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht8.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opdracht9.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.opleidingsaanbod.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.voorbeeld headings.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/labo3/Homepage/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/Gebruiker/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/22.20.0/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.HerhalingHTML.html.executor": "Run",
+    "JavaScript Debug.contact.html.executor": "Run",
+    "JavaScript Debug.hobbys.html.executor": "Run",
+    "JavaScript Debug.homepage.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.opdracht3.html.executor": "Run",
+    "JavaScript Debug.opdracht4.html.executor": "Run",
+    "JavaScript Debug.opdracht5.html.executor": "Run",
+    "JavaScript Debug.opdracht6.html.executor": "Run",
+    "JavaScript Debug.opdracht7.html.executor": "Run",
+    "JavaScript Debug.opdracht8.html.executor": "Run",
+    "JavaScript Debug.opdracht9.html.executor": "Run",
+    "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
+    "JavaScript Debug.voorbeeld headings.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/Opdracht TI-games/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/Gebruiker/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/22.20.0/node",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\Opdracht TI-games\images" />
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo4\opdracht5\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo3\Homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo2" />
     </key>
   </component>
@@ -93,7 +108,10 @@
       <workItem from="1759991887480" duration="3298000" />
       <workItem from="1759997323512" duration="2140000" />
       <workItem from="1760440399597" duration="2149000" />
-      <workItem from="1760513410368" duration="1263000" />
+      <workItem from="1760513410368" duration="3986000" />
+      <workItem from="1761121615921" duration="764000" />
+      <workItem from="1761202465313" duration="6328000" />
+      <workItem from="1761318801399" duration="3568000" />
     </task>
     <servers />
   </component>
