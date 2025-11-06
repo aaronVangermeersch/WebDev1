@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester1/Opdracht TI-games/HerhalingHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/Opdracht TI-games/images/Bus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht6/opdracht6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht6/styles/opdracht6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht7/opdracht7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo5/Opdracht7/styles/opdracht7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/Opdracht 5/images/dikke_zeehond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/Opdracht 5/opdracht5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/Opdracht 5/styles/opdracht5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht1/opdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht1/styles/opdracht1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht3/opdracht3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht3/styles/opdracht3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht4/opdracht4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht4/styles/opdracht4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht6/opdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht6/styles/opdracht6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -49,6 +53,7 @@
     "JavaScript Debug.hobbys.html.executor": "Run",
     "JavaScript Debug.homepage.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.opdracht1.html.executor": "Run",
     "JavaScript Debug.opdracht3.html.executor": "Run",
     "JavaScript Debug.opdracht4.html.executor": "Run",
     "JavaScript Debug.opdracht5.html.executor": "Run",
@@ -63,7 +68,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/Opdracht TI-games/images",
+    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/labo6/Opdracht 5/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,6 +82,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo6\Opdracht 5\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\Opdracht TI-games\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo4\opdracht5\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo3\Homepage\images" />
@@ -111,7 +117,8 @@
       <workItem from="1760513410368" duration="3986000" />
       <workItem from="1761121615921" duration="764000" />
       <workItem from="1761202465313" duration="6328000" />
-      <workItem from="1761318801399" duration="3568000" />
+      <workItem from="1761318801399" duration="4319000" />
+      <workItem from="1762330258244" duration="5505000" />
     </task>
     <servers />
   </component>
