@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/Opdracht 5/images/dikke_zeehond.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/Opdracht 5/opdracht5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/Opdracht 5/styles/opdracht5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht1/opdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht1/styles/opdracht1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht3/opdracht3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht3/styles/opdracht3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht4/opdracht4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht4/styles/opdracht4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht6/opdracht6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo6/opdracht6/styles/opdracht6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/CSSHomepage/csshomepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/CSSHomepage/images/CAS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/CSSHomepage/images/Radiohead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/CSSHomepage/images/TameImpala.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/CSSHomepage/images/dikke_zeehond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/CSSHomepage/styles/homepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/Kalender/kalender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/Kalender/styles/kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/Opgave nature blog/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/Opgave nature blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/labo7/Opgave nature blog/styles/natureblog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -45,49 +46,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.HerhalingHTML.html.executor": "Run",
-    "JavaScript Debug.contact.html.executor": "Run",
-    "JavaScript Debug.hobbys.html.executor": "Run",
-    "JavaScript Debug.homepage.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.opdracht1.html.executor": "Run",
-    "JavaScript Debug.opdracht3.html.executor": "Run",
-    "JavaScript Debug.opdracht4.html.executor": "Run",
-    "JavaScript Debug.opdracht5.html.executor": "Run",
-    "JavaScript Debug.opdracht6.html.executor": "Run",
-    "JavaScript Debug.opdracht7.html.executor": "Run",
-    "JavaScript Debug.opdracht8.html.executor": "Run",
-    "JavaScript Debug.opdracht9.html.executor": "Run",
-    "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
-    "JavaScript Debug.voorbeeld headings.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/labo6/Opdracht 5/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/Gebruiker/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/22.20.0/node",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.HerhalingHTML.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.contact.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.csshomepage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.hobbys.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.homepage.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.kalender.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht6.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht7.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht8.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opdracht9.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.opleidingsaanbod.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.voorbeeld headings.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/labo7/CSSHomepage&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/Gebruiker/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/22.20.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo7\CSSHomepage" />
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo7" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo6\Opdracht 5\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\Opdracht TI-games\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo4\opdracht5\images" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo3\Homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo7\Opgave nature blog\images" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo2" />
     </key>
@@ -118,7 +123,14 @@
       <workItem from="1761121615921" duration="764000" />
       <workItem from="1761202465313" duration="6328000" />
       <workItem from="1761318801399" duration="4319000" />
-      <workItem from="1762330258244" duration="5505000" />
+      <workItem from="1762330258244" duration="6353000" />
+      <workItem from="1762503826266" duration="25000" />
+      <workItem from="1762503952830" duration="4000" />
+      <workItem from="1762509711804" duration="60000" />
+      <workItem from="1762936267945" duration="4422000" />
+      <workItem from="1763031188550" duration="1124000" />
+      <workItem from="1763480157988" duration="3554000" />
+      <workItem from="1763484421840" duration="139000" />
     </task>
     <servers />
   </component>

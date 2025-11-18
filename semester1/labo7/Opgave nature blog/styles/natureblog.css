@@ -1,0 +1,31 @@
+body{
+    width: 95%;
+    margin: 0 auto;
+    font-family: "Arial Nova", Helvetica, sans-serif;
+}
+article header{
+    text-decoration: underline solid;
+
+
+}
+header h1{
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-bottom: 50px;
+    margin-bottom:0;
+}
+nav{
+    background-color: dimgray;
+    padding: 2px;
+}
+nav a{
+    color: darkcyan;
+}
+
+article{
+    background-color: silver;
+    padding: 5px;
+    margin: 2px;
+}
