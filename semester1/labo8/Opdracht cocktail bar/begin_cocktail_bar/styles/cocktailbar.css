@@ -1,0 +1,87 @@
+body{
+    width:95%;
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+    font-size: 1.2em;
+    margin: 0 auto;
+
+}
+
+#imgHeader{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+h1,h2{
+    color: #007e7e;
+}
+
+h1{
+    font-size: 150%;
+}
+
+h2{
+    font-size: 130%;
+}
+
+article{
+    width: 70%;
+}
+
+
+.cd{
+    font-style: italic;
+}
+
+.artist{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    font-size: 50%;
+    clear: both;
+
+}
+
+aside a:hover{
+    color: brown;
+}
+
+.color{
+    margin: 30px;
+    padding: 20px;
+    background-color: #a7cece;
+    border: white dotted 1px;
+    font-style: italic;
+}
+
+.color:before{
+    content: url("../images/background.gif");
+    float: left;
+}
+
+aside h2{
+    color: lightcoral;
+}
+
+.color a{
+    text-decoration: underline;
+}
+
+aside{
+    text-align: center;
+    margin-left: 20px;
+    width: 25%;
+    float: right;
+    margin-right: 3px;
+    border: 5px solid cornflowerblue;
+    padding: 15px;
+}
+
+aside h1{
+    background-image: url("../images/cocktail.gif");
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
