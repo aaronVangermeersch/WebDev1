@@ -1,0 +1,24 @@
+article{
+    border: 1px solid blue;
+    margin: 10px;
+    font-size: 1.2em;
+    display: inline-block;
+}
+
+article:nth-child(even) img{
+    float: left
+}
+
+article:nth-child(odd) img{
+    float: right
+}
+
+img{
+    margin: 10px;
+    height: auto;
+    width: auto;
+}
+
+article p, h2{
+    margin: 10px;
+}
