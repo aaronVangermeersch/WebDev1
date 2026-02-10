@@ -5,24 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 1/css/flexbox-cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 2/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 2/images/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 2/images/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 2/style-guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/fonts/kumbh.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/images/bg-pattern-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/images/bg-pattern-card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/images/bg-pattern-top.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/images/image-victor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie 1/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/headerimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recipes/bbq.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recipes/burger.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recipes/mediterranean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/images/recommended/food9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/oefenen/oefen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester1/extra oefeningen/oefenen/styles/oefen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/semester1/labo12/Beginsituatie 3/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,9 @@
     &quot;JavaScript Debug.loremIpsum.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.loremipsumextra.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.loungestart.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.mondriaan.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.oef1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.oefen.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht1.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht3.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht4.html.executor&quot;: &quot;Run&quot;,
@@ -84,6 +91,7 @@
     &quot;JavaScript Debug.opdracht_2.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opdracht_3.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.opleidingsaanbod.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.start.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.voorbeeld headings.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.voorbeeld1.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -91,7 +99,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/labo12&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/web dev/WebDev1/semester1/extra oefeningen/Beginsituatie Kitchn/Beginsituatie Kitchn&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -105,18 +113,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\extra oefeningen\Beginsituatie Kitchn\Beginsituatie Kitchn" />
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\extra oefeningen" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo12" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo11" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo10" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\extra oefeningen\Beginsituatie Kitchn\Beginsituatie Kitchn\styles" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo9" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo8" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo7\Opgave nature blog\images" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\labo2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -167,11 +175,24 @@
       <workItem from="1765884176529" duration="357000" />
       <workItem from="1765962929146" duration="3260000" />
       <workItem from="1766180929296" duration="626000" />
-      <workItem from="1766181915957" duration="1270000" />
+      <workItem from="1766181915957" duration="2750000" />
+      <workItem from="1767888630666" duration="28237000" />
+      <workItem from="1768166089991" duration="901000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
