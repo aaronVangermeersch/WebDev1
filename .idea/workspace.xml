@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/InnerHTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/InnerHTML/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/InnerHTML/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/Kopieer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/Kopieer/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/Kopieer/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/Substring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/Substring/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo14/Substring/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/colorpicker/colorpicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/colorpicker/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/colorpicker/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/demonstratie slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/demonstratie slider/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/demonstratie slider/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/kleurenwisselaar/kleurenwisselaar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/kleurenwisselaar/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/kleurenwisselaar/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/paragrafen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/paragrafen/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/paragrafen/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/producten/producten.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/producten/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo15/producten/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semester2/Opdracht/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/semester2/Opdracht/scripts/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +57,7 @@
     "JavaScript Debug.HerhalingHTML.html.executor": "Run",
     "JavaScript Debug.Personal_Homepage.html.executor": "Run",
     "JavaScript Debug.airbus.html.executor": "Run",
+    "JavaScript Debug.colorpicker.html.executor": "Run",
     "JavaScript Debug.contact.html.executor": "Run",
     "JavaScript Debug.csshomepage.html.executor": "Run",
     "JavaScript Debug.exercise1.html.executor": "Run",
@@ -64,6 +70,7 @@
     "JavaScript Debug.homepage.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.kalender.html.executor": "Run",
+    "JavaScript Debug.kleurenwisselaar.html.executor": "Run",
     "JavaScript Debug.loremIpsum.html.executor": "Run",
     "JavaScript Debug.loremipsumextra.html.executor": "Run",
     "JavaScript Debug.loungestart.html.executor": "Run",
@@ -81,6 +88,7 @@
     "JavaScript Debug.opdracht_2.html.executor": "Run",
     "JavaScript Debug.opdracht_3.html.executor": "Run",
     "JavaScript Debug.opleidingsaanbod.html.executor": "Run",
+    "JavaScript Debug.producten.html.executor": "Run",
     "JavaScript Debug.start.html.executor": "Run",
     "JavaScript Debug.voorbeeld headings.html.executor": "Run",
     "JavaScript Debug.voorbeeld1.html.executor": "Run",
@@ -90,7 +98,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/2AI/web dev/WebDev1/semester2/labo14",
+    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/2AI/web dev/WebDev1/semester2/labo15",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -104,11 +112,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo15" />
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo14" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo1\labo14" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo1" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\web dev\WebDev1\semester1\extra oefeningen\Beginsituatie Kitchn\Beginsituatie Kitchn" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2" />
@@ -171,6 +179,8 @@
       <workItem from="1768166089991" duration="901000" />
       <workItem from="1770726524288" duration="1327000" />
       <workItem from="1771356393423" duration="5052000" />
+      <workItem from="1772444122442" duration="1750000" />
+      <workItem from="1772446629293" duration="1002000" />
     </task>
     <servers />
   </component>
