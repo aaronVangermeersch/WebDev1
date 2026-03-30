@@ -5,22 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e43dc6-3160-419d-a280-dff0befc86e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/Demo event bubbling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/Demo event bubbling/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/Demo event bubbling/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/colorpicker uitbreiding/colorpicker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/colorpicker uitbreiding/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/colorpicker uitbreiding/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht1/opdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht1/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht1/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht2/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht2/opdracht2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht2/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht2/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht3/opdracht3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht3/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semester2/labo18/nodes/opdracht3/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/HitAnObject/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/correct.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/flip.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/images/image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound0.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound10.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound11.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound12.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound13.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound14.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound15.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound16.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound17.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound18.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/sounds/sound9.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/assets/wrong.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/semester2/labo_19/matchingGame/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +135,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/2AI/web dev/WebDev1/semester2/labo18",
+    "last_opened_file_path": "C:/Users/Gebruiker/OneDrive - Hogeschool VIVES/Documenten/2AI/web dev/WebDev1/semester2/labo_19",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -112,11 +149,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo_19" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo18" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo17" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo16" />
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2\labo15" />
-      <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Gebruiker\OneDrive - Hogeschool VIVES\Documenten\2AI\web dev\WebDev1\semester2" />
@@ -187,6 +224,7 @@
       <workItem from="1773336484075" duration="70000" />
       <workItem from="1773781313644" duration="1586000" />
       <workItem from="1774385253136" duration="3387000" />
+      <workItem from="1774875152113" duration="1574000" />
     </task>
     <servers />
   </component>
